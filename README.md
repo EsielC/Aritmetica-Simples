@@ -1,2 +1,2 @@
-# Laboratorio
-Conjuntos de Exercicios feitos em JAVA
+# Aritmetica-Simples 
+Conjuntos de Exercicios feitos em JAVA envolvendo aritmetica básica
